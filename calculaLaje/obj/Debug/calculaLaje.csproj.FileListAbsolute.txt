@@ -1,0 +1,12 @@
+C:\Projetos\C#\CalculaLaje_e_Forro\calculaLaje\bin\Debug\calculaLaje.exe
+C:\Projetos\C#\CalculaLaje_e_Forro\calculaLaje\bin\Debug\calculaLaje.exe.config
+C:\Projetos\C#\CalculaLaje_e_Forro\calculaLaje\obj\Debug\calculaLaje.csproj.AssemblyReference.cache
+C:\Projetos\C#\CalculaLaje_e_Forro\calculaLaje\obj\Debug\calculaLaje.calculaPorMetros.resources
+C:\Projetos\C#\CalculaLaje_e_Forro\calculaLaje\obj\Debug\CalculaLaje.calcularPorVigas.resources
+C:\Projetos\C#\CalculaLaje_e_Forro\calculaLaje\obj\Debug\CalculaLaje.Calculadora.resources
+C:\Projetos\C#\CalculaLaje_e_Forro\calculaLaje\obj\Debug\calculaLaje.Properties.Resources.resources
+C:\Projetos\C#\CalculaLaje_e_Forro\calculaLaje\obj\Debug\calculaLaje.csproj.GenerateResource.cache
+C:\Projetos\C#\CalculaLaje_e_Forro\calculaLaje\obj\Debug\calculaLaje.csproj.CoreCompileInputs.cache
+C:\Projetos\C#\CalculaLaje_e_Forro\calculaLaje\obj\Debug\calculaLaje.exe
+C:\Projetos\C#\CalculaLaje_e_Forro\calculaLaje\obj\Debug\calculaLaje.pdb
+C:\Projetos\C#\CalculaLaje_e_Forro\calculaLaje\bin\Debug\calculaLaje.pdb
